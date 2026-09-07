@@ -1,2 +1,3 @@
-Hello World
+Hello World, I'm Shubham Diwakar
+Welcome to my GitHub, you can USE my PROJECTS for your work, Thanksss!
 <img width="1248" height="259" alt="NXrEG" src="https://github.com/user-attachments/assets/9410871a-d391-4f36-8cf3-cde4ecf8ef29" />
